@@ -51,7 +51,7 @@ Outlier Detection: Identifying unusual values in metadata like ddi_scale.
 ![image](https://github.com/user-attachments/assets/eec3e56e-f970-43da-b96c-23fe695d81f8)
 
 Skin Tone Representation: Ensuring fair inclusion across different skin types
-![image](https://github.com/user-attachments/assets/ad84aab7-f708-413b-ad69-2e889f261afb)
+![image](https://github.com/user-attachments/assets/35dd9b12-19a0-4bef-9880-c9ca66f2bcce)
 
 ## 🧠 Model Development
 
