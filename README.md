@@ -3,7 +3,7 @@
 ## 👥 Team Members
 - **Jenylee Diaz Munoz | @beelee115**  
 - **Sara Abdulla | @oreo-cake**
-- **Rohitha Sanka | @**
+- **Rohitha Sanka | @rsanka12
 - **Naseeha Masub | @**
 - **Waverly Souvannachack | @**
 - **Muskaan Thapar | @**
