@@ -70,5 +70,7 @@ For our training pipeline, our data is split into training and validation sets u
 ## 📈 Results & Key Findings
 
 ## 🌍 Impact Narrative
+With the tecnologies implemented and validity of our tool, we believe that our model will be able to highlight skin diseases and foreign patches at an earlier stage ensuring treatment. Throughout the process of building our project we encountered some difficulty but were able to overcome that. We believe we will make diagnosing and researching skin diseases, types and illnesses easier. 
 
 ## 🚀 Next Steps & Future Improvements
+As a team, for our next steps we think that communication and more efforts could result in a higher accuracy. As we make those changes, our tool would make a higher impact. 
