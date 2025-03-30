@@ -54,6 +54,18 @@ Skin Tone Representation: Ensuring fair inclusion across different skin types
 ![image](https://github.com/user-attachments/assets/35dd9b12-19a0-4bef-9880-c9ca66f2bcce)
 
 ## 🧠 Model Development
+Our submission contains a Convolutional Neural Network (CNN) which is used for multi-class image classification. Our team utilized TensorFlow, an open-source machine learning framework, that also integreates Keras, a highl-level networks API to make the model easier to build. Team Exfoliant decided to select a CNN architecture for its effectiveness in image classification. We made three convolutional layers with RELU activation and max pooling and fully connected the layers with dropout for regularization. With many of our projects, we also used train_test_split for dataset partitioning to ensure our model works with different kinds of data (generalization). Below are some of the hyperparameters and why we decided to use these specific values.
+Hyperparameter Tuning:
+
+Filter Sizes & Layers: A progressive increase in convolutional filters (32 → 64 → 128) enhances feature extraction. We progressively increased the number of kernels (filters) to allow the network to learn hierarchical representations.
+
+Dropout (0.5): It is a regulariztion technique that randomly deactivations some neurons while the model is training. This was so that our model didn't have to rely on just specific neurons to learn, but rather allows 50% of the neurons to train and reduce overfitting. We chose 0.5 because it is a good balance to maintain enough information but also reduce overfitting.
+
+Optimizer (Adam): Adam adapts the learning rate individually for each parameter as it helps speed up convergence and adjust the learning rate for different parameters. We used Adam as it is widely used in CNNs in difficult/complex feature spaces.
+
+Batch Size (32) & Epochs (10): Achieve sufficient model training while avoiding overfitting. We wanted a model that didn't run for too long but was able to test out a good amount of data.
+
+For our training pipeline, our data is split into training and validation sets using a 80/20 split which is a balanced split that allows us to train on different parts of the data.
 
 ## 📈 Results & Key Findings
 
