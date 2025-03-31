@@ -134,8 +134,27 @@ Fairness Metrics: To evaluate performance across skin tones and mitigate potenti
 
 Feature Importance & Explainability: To enhance transparency and model trustworthiness.
 
-## 🌍 Impact Narrative
-With the tecnologies implemented and validity of our tool, we believe that our model will be able to highlight skin diseases and foreign patches at an earlier stage ensuring treatment. Throughout the process of building our project we encountered some difficulty but were able to overcome that. We believe we will make diagnosing and researching skin diseases, types and illnesses easier. 
+## 🖼️ Impact Narrative
+**🌍 Advancing Fair & Inclusive AI in Dermatology**
 
+Our machine learning model aims to classify 21 skin conditions while addressing bias in dermatology AI. Traditional models often misdiagnose darker skin tones due to biased datasets. By improving fairness, we strive for a more equitable AI system.
+
+**📊 Addressing Model Fairness**
+
+Used diverse data sources to improve representation but recognize the need for explicit fairness testing.
+
+Plan to implement fairness metrics like demographic parity and equalized odds to assess model performance across skin tones.
+
+Future improvements will focus on fairness-aware techniques, data augmentation, and hyperparameter tuning to mitigate bias.
+
+**🌱 Broader Impact**
+
+Reducing AI bias in dermatology can improve diagnostic accuracy for underrepresented groups, leading to better health outcomes.
+
+Promotes ethical AI development and aligns with efforts to create more inclusive medical tools.
+
+Enhancing model transparency through fairness testing can increase trust in AI-driven healthcare solutions.
+
+By prioritizing fairness and inclusivity, we take a step toward responsible AI in healthcare. 🚀
 ## 🚀 Next Steps & Future Improvements
 As a team, for our next steps we think that communication and more efforts could result in a higher accuracy. As we make those changes, our tool would make a higher impact. 
