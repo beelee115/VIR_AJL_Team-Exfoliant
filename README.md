@@ -14,7 +14,51 @@
 🔗 [Equitable AI for Dermatology | Kaggle Competition Page](https://www.kaggle.com/competitions/bttai-ajl-2025/overview)
 
 ## ⚙️ Setup & Execution
+Follow these steps to set up your environment and run the code for the Kaggle competition.
 
+**1️⃣ Clone the Repository**
+
+git clone <repository-url>
+cd VIR_AJL_Team-Exfoliant
+
+Replace <repository-url> with the actual URL of your GitHub repository.
+
+**2️⃣ Install Dependencies**
+
+Ensure you have Python installed. Then, install the required dependencies:
+
+pip install -r requirements.txt
+
+If you do not have a requirements.txt file, manually install the necessary libraries:
+
+pip install pandas numpy scikit-learn matplotlib seaborn kaggle
+
+**3️⃣ Set Up the Environment**
+
+Ensure you have the necessary environment set up for running Python scripts. You may use a virtual environment:
+
+python -m venv env
+source env/bin/activate  # On macOS/Linux
+env\Scripts\activate  # On Windows
+
+**4️⃣ Access the Dataset**
+
+The dataset files (train.csv and test.csv) are already included in the repository. Ensure they are in the root directory:
+
+project-folder/
+│── train.csv
+│── test.csv
+│── exfoliant.py
+│── vir-ajl-team-exfoliant-sub-2.py
+│── README.md
+
+**5️⃣ Run the Script**
+
+Execute the script in the command line:
+
+python vir-ajl-team-exfoliant-sub-2.py
+
+Replace vir-ajl-team-exfoliant-sub-2.py with the appropriate script name if needed.
 ## 📌 Project Overview
 **🏆 The Competition & Break Through Tech AI**
 
