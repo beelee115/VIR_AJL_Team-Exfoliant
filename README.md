@@ -4,9 +4,9 @@
 - **Jenylee Diaz Munoz | @beelee115**  
 - **Sara Abdulla | @oreo-cake**
 - **Rohitha Sanka | @rsanka12**
-- **Naseeha Masub | @**
-- **Waverly Souvannachack | @**
-- **Muskaan Thapar | @**
+- **Naseeha Masub**
+- **Waverly Souvannachack**
+- **Muskaan Thapar**
 
 ## 🌟 Project Highlights
 * Achieved an F1 score of 0.06269 and a ranking of 56 on the final Kaggle Leaderboard
