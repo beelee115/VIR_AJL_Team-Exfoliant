@@ -68,6 +68,27 @@ Batch Size (32) & Epochs (10): Achieve sufficient model training while avoiding 
 For our training pipeline, our data is split into training and validation sets using a 80/20 split which is a balanced split that allows us to train on different parts of the data.
 
 ## 📈 Results & Key Findings
+**Model Performance Overview**
+Leaderboard Score: Achieved a Kaggle leaderboard score of 60, reflecting decent overall performance with room for improvement. The model demonstrated steady learning but showed variability in validation accuracy.
+
+**Fairness & Inclusivity**
+Skin Tone Evaluation: The model currently lacks explicit evaluation across different skin tones. We recognize the importance of fairness and bias testing in our model, especially for dermatological applications where skin tone diversity is crucial.
+
+Next Steps: Future work will include evaluating model performance using fairness metrics like demographic parity and equalized odds, as well as ensuring equal accuracy across skin tone groups to promote inclusivity.
+
+**Model Evaluation Insights**
+Performance Variability: The model shows potential but struggles with generalization. Future improvements will focus on enhancing robustness and fairness across all demographic groups.
+
+Future Goals: Plans to implement fairness-aware techniques, data augmentation, and better hyperparameter tuning to address performance gaps and reduce bias.
+
+**Next Steps**
+If we had more time, we would include:
+
+Confusion Matrix: To better understand misclassifications.
+
+Fairness Metrics: To evaluate performance across skin tones and mitigate potential bias.
+
+Feature Importance & Explainability: To enhance transparency and model trustworthiness.
 
 ## 🌍 Impact Narrative
 With the tecnologies implemented and validity of our tool, we believe that our model will be able to highlight skin diseases and foreign patches at an earlier stage ensuring treatment. Throughout the process of building our project we encountered some difficulty but were able to overcome that. We believe we will make diagnosing and researching skin diseases, types and illnesses easier. 
